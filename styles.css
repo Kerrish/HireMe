@@ -1,0 +1,52 @@
+img {
+    width: 100px;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: grey;
+}
+
+.Black {
+    color: darkgrey;
+}
+
+.Green {
+    color: green;
+}
+
+.Purple {
+    color: #ee31f5;
+}
+
+.Nightcord {
+    color: #ee31f5;
+}
+
+.Minecraft {
+    width: 200px;
+}
+
+.Valorant {
+    width: 200px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Acme', sans-serif;
+}
+
+.Darren {
+    font-size: 50px;
+}
+
+body {
+    color: white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    background: url("https://i.pinimg.com/originals/ed/34/b0/ed34b0fe6f167933c0412d7f0ae4135d.gif");
+    background-size: 1050px;
+}
